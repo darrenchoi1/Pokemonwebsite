@@ -1,0 +1,36 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+    font-size: 35px;
+    padding: 20px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #7b7f9c;
+  }
+ body {
+  background-image: url(https://wallpaperaccess.com/full/2638162.jpg);
+ }
+ h3 {
+  font-size: 40px;
+  margin: 10px;
+ }
+ p {
+  font-size: 25px;
+ }
+footer {
+  font-size: 30px;
+}

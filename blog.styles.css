@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://www.coliseugeek.com.br/wp-content/uploads/2023/01/6776c-clickwallpapers-pokemon-4k-img2-scaled-1.jpg);
+}
+  li {
+    float: left;
+    font-size: 35px;
+    padding: 20px;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px;
+  }
+
+  li a:hover {
+    color: rgb(212, 238, 99);
+    text-decoration: underline;
+  }
+
+label {
+    color: white;
+    font-size: 50px;
+}
+input {
+    font-size: 20px;
+}
+footer {
+  font-size: 20px;
+}
+
+ 

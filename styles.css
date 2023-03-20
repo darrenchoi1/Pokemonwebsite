@@ -1,0 +1,51 @@
+body {
+    background-image: url(https://media4.giphy.com/media/W04QVzelTHsNW/giphy.gif);
+    background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}
+
+.ATL {
+    text-align: left;
+    font-size: 30px;
+    list-style: decimal;
+    padding: 10px;
+    background-color: grey;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+li {
+    font-size: 35px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    color: rgb(212, 238, 99);
+    text-decoration: underline;
+  }
+  footer {
+    background-color: grey;
+    font-size: 20px;
+  }
+img {
+  padding: 80px;
+  
+}
